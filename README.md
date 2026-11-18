@@ -61,7 +61,7 @@ Aprendizado contínuo em tecnologia
 <img src="https://img.shields.io/badge/PostgreSQL-0F3D35?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-030405?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/DBeaver-030405?style=for-the-badge&logo=dbeaver&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Excel-030405?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-0F3D35?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-0F3D35?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/Scrum-0F3D35?style=for-the-badge&logo=scrumalliance&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-030405?style=for-the-badge&logo=html5&logoColor=white">
