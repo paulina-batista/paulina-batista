@@ -46,7 +46,7 @@ Aprendizado contínuo em tecnologia
 
 <td width="30%" align="center" valign="middle">
 
-<img src="./assets/totoro.jpg" width="180" alt="Totoro">
+<img src="./assets/cards.jpg" width="180" alt="Cartas">
 
 </td>
 </tr>
