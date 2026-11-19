@@ -58,21 +58,21 @@ Aprendizado contínuo em tecnologia
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PostgreSQL-0F3D35?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-400000?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-030405?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/DBeaver-030405?style=for-the-badge&logo=dbeaver&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Excel-0F3D35?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Trello-0F3D35?style=for-the-badge&logo=trello&logoColor=white">
-<img src="https://img.shields.io/badge/Scrum-0F3D35?style=for-the-badge&logo=scrumalliance&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-400000?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Trello-030405?style=for-the-badge&logo=trello&logoColor=white">
+<img src="https://img.shields.io/badge/Scrum-400000?style=for-the-badge&logo=scrumalliance&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-030405?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-030405?style=for-the-badge&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-030405?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/React-0F3D35?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/React-400000?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-030405?style=for-the-badge&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/Git-0F3D35?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Git-400000?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-030405?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-030405?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-0F3D35?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-400000?style=for-the-badge&logo=supabase&logoColor=white">
 
 </div>
 
@@ -82,13 +82,13 @@ Aprendizado contínuo em tecnologia
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Projetos_de_Sistemas_de_TI-0F3D35?style=for-the-badge">
+<img src="https://img.shields.io/badge/Projetos_de_Sistemas_de_TI-400000?style=for-the-badge">
 <img src="https://img.shields.io/badge/Introdução_à_Gestão_de_Projetos-030405?style=for-the-badge">
 
 <br>
 
 <img src="https://img.shields.io/badge/Pensamento_Computacional-030405?style=for-the-badge">
-<img src="https://img.shields.io/badge/Scrum_Fundamentals_Certified-0F3D35?style=for-the-badge">
+<img src="https://img.shields.io/badge/Scrum_Fundamentals_Certified-400000?style=for-the-badge">
 
 </div>
 
@@ -98,7 +98,7 @@ Aprendizado contínuo em tecnologia
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=paulina-batista&show_icons=true&hide_border=true&bg_color=0F3D35&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&locale=pt-br">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=paulina-batista&show_icons=true&hide_border=true&bg_color=400000&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&locale=pt-br">
 
 <img height="160" src="https://streak-stats.demolab.com?user=paulina-batista&theme=dark&hide_border=true&background=0D1117locale=pt_BR">
 
