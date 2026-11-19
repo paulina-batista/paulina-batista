@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/margaridas.jpg" width="100%" alt="Bem-vindo ao GitHub da Paulina">
+<img src="./assets/burgundy.jpg" width="100%" alt="Bem-vindo ao GitHub da Paulina">
 
 <br>
 
