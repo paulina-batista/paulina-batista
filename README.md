@@ -6,7 +6,7 @@
 <br>
 
 <a href="https://www.instagram.com/hlowx/" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-030405?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/INSTAGRAM-030405?style=for-the-badge">
 </a>
 <a href="https://www.linkedin.com/in/paulina-batista/">
   <img src="https://img.shields.io/badge/LINKEDIN-030405?style=for-the-badge&logo=linkedin&logoColor=white">
