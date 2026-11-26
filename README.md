@@ -5,8 +5,8 @@
 
 <br>
 
-<a href="https://github.com/paulina-batista">
-  <img src="https://img.shields.io/badge/GITHUB-030405?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.instagram.com/hlowx/" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-030405?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/paulina-batista/">
   <img src="https://img.shields.io/badge/LINKEDIN-030405?style=for-the-badge&logo=linkedin&logoColor=white">
